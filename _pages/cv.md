@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Research
+------
+* Master student then PhD student in Machine Learning at [Ecole Normale Supérieure PSL](https://www.ens.psl.eu/), supervised by [Gabriel Peyré](https://www.gpeyre.com/) (CNRS, ENS PSL) and [Pierre Ablin](https://pierreablin.com/) (Apple), *April to July 2023 and September 2024-today*
+
+* Visiting student of [José Antonio Carrillo](https://carrilloja.org/) (University of Oxford), *October to December 2023*
+
+* Graduate Research Assistant with [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) at ENS de Lyon, *February to July 2022*
+
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* M.S. in Statistics and Machine Learning ([MDA](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/statml/)) at Université Paris-Saclay, with highest honors, *2023*
+* B.S. and *Diplôme de l'ENS* at [Ecole Normale Supérieure PSL](https://www.ens.psl.eu/), with highest honors, *2020-2024*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Skills
+------
+* Languages:
+  * French (native speaker)
+  * Italian (bilingual)
+  * English (fluent)
+  * Spanish (intermediate)
+  * German (beginner)
+* Programming:
+  * Python (PyTorch, JAX)
+
+  
+
+  
