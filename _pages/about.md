@@ -1,28 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "Welcome!"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://www.gpeyre.com/) and [Pierre Ablin](https://pierreablin.com/) at [Ecole Normale Supérieure](https://www.ens.psl.eu/), Paris.
 
-A data-driven personal website
+I investigate theoretical and practical properties of Transformers.
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **January 2025:** Our new preprint [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) is out! Joint work with [J. A. Carrillo](https://carrilloja.org/), G. Peyré, P. Ablin. With a PDE formalism, we investigate the dynamics of tokens as they go through an infinitely deep Transformer.
+- **January 2025:** I presented our paper [How Smooth Is Attention?](https://arxiv.org/abs/2312.14820) at the [MLSP Seminar](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/machine-learning-and-signal-processing?set_language=fr&cl=fr), ENS de Lyon
+- **September 2024:** I officially started my PhD!
+- **June 2024:** I presented a poster at the CIRM research school [Frontiers in Interacting Particle Systems](https://conferences.cirm-math.fr/3050.html). Joint work with [J. A. Carrillo](https://carrilloja.org/)
+- **April 2024:** Our paper [How Smooth Is Attention?](https://arxiv.org/abs/2312.14820) was accepted at ICML 2024! We investigate the (local) Lipschitz constant of self-attention, and show that it grows with the sequence length.
+- **October 2023:** I am starting a 3-month visit at [University of Oxford](https://www.ox.ac.uk/), to work with [José Antonio Carrillo](https://carrilloja.org/).
+- **April 2023:** I started my master thesis at ENS PSL with Gabriel Peyré and Pierre Ablin!
 
 Site-wide configuration
 ------
