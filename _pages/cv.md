@@ -23,13 +23,6 @@ Education
 -------
 * M.S. in Statistics and Machine Learning ([MDA](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/statml/)) at Université Paris-Saclay, with highest honors, *2023*
 * B.S. and *Diplôme de l'ENS* at [Ecole Normale Supérieure PSL](https://www.ens.psl.eu/), with highest honors, *2020-2024*
-
-
-Teaching
--------
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
 Skills
