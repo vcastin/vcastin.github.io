@@ -11,6 +11,8 @@ I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://w
 
 I investigate theoretical and practical properties of Transformers.
 
+**Contact:** valerie.castin (at) ens.psl.eu
+
 News
 ======
 - **January 2025:** Our new preprint [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) is out! Joint work with [J. A. Carrillo](https://carrilloja.org/), G. Peyré, P. Ablin. With a PDE formalism, we investigate the dynamics of tokens as they go through an infinitely deep Transformer.
