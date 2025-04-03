@@ -11,5 +11,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-- **Sept. 2023 to Jan. 2024:** Teaching Assistant for the course Mathematics of Data at ENS PSL, taught by Gabriel Peyré and Pierre Ablin. My teaching material is on [Github](https://github.com/vcastin/teaching).
+- **Sept. 2024 to Jan. 2025:** Teaching Assistant for the course Mathematics of Data at ENS PSL, taught by Gabriel Peyré and Pierre Ablin. My teaching material is on [Github](https://github.com/vcastin/teaching).
 - Tutoring ("colles") in mathematics in *classe préparatoire*, at Lycée Louis-le-Grand (Paris, *2020-2022*) and Lycée Blaise Pascal (Orsay, *2022-2023*)
