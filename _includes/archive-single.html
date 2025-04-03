@@ -52,12 +52,14 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.slidesurl and post.posterurl %}
-      <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.posterurl }}">Poster</a>
-    {% elsif post.slidesurl %}
-      <a href="{{ post.slidesurl }}">Slides</a>
-    {% elsif post.posterurl %}
-      <a href="{{ post.posterurl }}">Poster</a>
+    {% if post.slidesurl and post.posterurl and post.paperurl %}
+      <p><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.posterurl }}">Poster</a></p>
+    {% elsif post.slidesurl and post.paperurl %}
+    <p><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a></p>
+    {% elsif post.posterurl and post.paperurl %}
+      <p><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.posterurl }}">Poster</a></p>
+    {% elsif post.paperurl %}
+    <p><a href="{{ post.paperurl }}">Paper</a></p>
     {% endif %}
 
   </article>
