@@ -53,11 +53,11 @@
     {% endif %}
     
     {% if post.slidesurl and post.posterurl %}
-      <p><a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.posterurl }}">Poster</a></p>
+      <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.posterurl }}">Poster</a>
     {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Slides</a></p>
+      <a href="{{ post.slidesurl }}">Slides</a>
     {% elsif post.posterurl %}
-      <p><a href="{{ post.posterurl }}">Poster</a></p>
+      <a href="{{ post.posterurl }}">Poster</a>
     {% endif %}
 
   </article>
