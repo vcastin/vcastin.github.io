@@ -3,7 +3,7 @@ title: "How Smooth Is Attention?"
 collection: publications
 # category: published
 permalink: /publication/2024-how-smooth-is-attention
-# excerpt: 
+excerpt: 'V. Castin, P. Ablin, G. Peyré'
 date: 2024-04-01
 venue: 'ICML'
 slidesurl: 'http://vcastin.github.io/files/diapos/2025_01_lyon.pdf'
