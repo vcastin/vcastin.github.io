@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student in machine learning at ENS PSL"
   location         : "Paris, France"
-  employer         : "ENS PSL"
+  employer         : # "ENS PSL"
   uri              : # URL
   email            : # "valerie.castin@ens.psl.eu" 
 
