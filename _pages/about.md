@@ -15,6 +15,7 @@ I investigate theoretical and practical properties of Transformers.
 
 News
 ======
+- **June 2025:** Our paper [Opening the Black Box: Reverse-Engineering of Sparse Neural Networks](https://hal.science/view/index/docid/5136482) has been accepted as an oral at GRETSI 2025! Joint work with [Rémi Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
 - **January 2025:** Our new preprint [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) is out! Joint work with [J. A. Carrillo](https://carrilloja.org/), G. Peyré, P. Ablin. With a PDE formalism, we investigate the dynamics of tokens as they go through an infinitely deep Transformer.
 - **January 2025:** I presented our paper [How Smooth Is Attention?](https://arxiv.org/abs/2312.14820) at the [MLSP Seminar](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/machine-learning-and-signal-processing?set_language=fr&cl=fr), ENS de Lyon
 - **September 2024:** I officially started my PhD!
