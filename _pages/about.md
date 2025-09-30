@@ -11,10 +11,13 @@ I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://w
 
 I investigate theoretical and practical properties of Transformers.
 
+I also co-organize the PhD seminar of our lab. Reach out if you would like to come present your work!
+
 **Contact:** valerie.castin (at) ens.psl.eu
 
 News
 ======
+- **September 2025:** I was in Hamburg to present my recent works at the workshop [Mathematics of Transformers](https://helmholtz-imaging.de/news/mathematics-of-transformers/). [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf)
 - **June 2025:** Our paper [Opening the Black Box: Reverse-Engineering of Sparse Neural Networks](https://univ-lyon3.hal.science/hal-05136482v1) has been accepted as an oral at GRETSI 2025! Joint work with [Rémi Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
 - **January 2025:** Our new preprint [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) is out! Joint work with [J. A. Carrillo](https://carrilloja.org/), G. Peyré, P. Ablin. With a PDE formalism, we investigate the dynamics of tokens as they go through an infinitely deep Transformer.
 - **January 2025:** I presented our paper [How Smooth Is Attention?](https://arxiv.org/abs/2312.14820) at the [MLSP Seminar](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/machine-learning-and-signal-processing?set_language=fr&cl=fr), ENS de Lyon

@@ -25,10 +25,11 @@ Education
 * B.S. and *Diplôme de l'ENS* at [Ecole Normale Supérieure PSL](https://www.ens.psl.eu/), with highest honors, *2020-2024*
   
 
-Skills
+Skills and miscellaneous
 -------
 * Languages: French (native speaker), Italian (bilingual), English (fluent), Spanish (intermediate), German (beginner)
 * Programming: Python (PyTorch, JAX)
+* I have been a singer in the [Choir of ENS de Lyon](https://www.ens-lyon.fr/asso/chorale/) and the [PSL Choir](https://www.ens.psl.eu/en/campus-life-paris/ens-and-psl/psl-choir-and-orchestra). I currently sing in the Choir of ENS PSL.
 
   
 
