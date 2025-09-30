@@ -21,6 +21,6 @@ Invited talks
 Conferences and summer schools
 ======
 - [Oral](http://vcastin.github.io/files/diapos/2025_08_GRETSI.pdf) at GRETSI 2025
-- [Poster]((http://vcastin.github.io/files/posters/2024_CIRM.pdf)) at the CIRM research school [Frontiers in Interacting Particle Systems](https://conferences.cirm-math.fr/3050.html)
+- [Poster](http://vcastin.github.io/files/posters/2024_CIRM.pdf) at the CIRM research school [Frontiers in Interacting Particle Systems](https://conferences.cirm-math.fr/3050.html)
 - [Poster](http://vcastin.github.io/files/posters/2024_ICML.pdf) at ICML 2024
 - [Poster](http://vcastin.github.io/files/posters/2022_SNN.png) at the ICML 2022 Workshop [Sparsity in neural networks](https://sites.google.com/view/sparsity-workshop-2022/home)
