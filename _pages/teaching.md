@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-- **Sept. 2025 to Jan. 2026:** I am in charge of the L3 course Mathematics for Machine Learning in the CPES program [Sciences des données, arts et cultures](https://psl.eu/formation/cpes-psl-louis-le-grand)
+- **Sept. 2025 to Jan. 2026:** I am in charge of the L3 course Mathematics for Machine Learning in the CPES program [Sciences des données, arts et cultures](https://psl.eu/formation/cpes-psl-louis-le-grand). [Teaching material](https://github.com/vcastin/teaching_CPES_2526)
 - **Sept. 2024 to Jan. 2025:** Teaching Assistant for the course Mathematics of Data at ENS PSL, taught by Gabriel Peyré and Pierre Ablin. [Teaching material](https://github.com/vcastin/teaching)
 - Tutoring ("colles") in mathematics in *classe préparatoire*, at Lycée Louis-le-Grand (Paris, *2020-2022*) and Lycée Blaise Pascal (Orsay, *2022-2023*)
 
