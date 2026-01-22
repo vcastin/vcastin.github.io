@@ -13,8 +13,8 @@ author_profile: true
 
 Invited talks
 ======
-- Minisymposium [Partial Differential Equations, Inverse Problems and Machine Learning](https://2026.bienalrsme.com/sites/default/files/Partial_Differential_Equations_Inverse_Problems_and_Machine_Learning.pdf), Universidad de Alicante, *January 2026*
-- [SIERRA](https://sierra-mlopt.github.io/) Seminar, INRIA Paris, *December 2025*
+- [SIERRA](https://sierra-mlopt.github.io/) Seminar, INRIA Paris, *2026*
+- Minisymposium [Partial Differential Equations, Inverse Problems and Machine Learning](https://2026.bienalrsme.com/sites/default/files/Partial_Differential_Equations_Inverse_Problems_and_Machine_Learning.pdf), Universidad de Alicante, *January 2026*, [Slides](http://vcastin.github.io/files/diapos/2026_01_alicante.pdf)
 - Workshop [Mathematics of Transformers](https://www.tuhh.de/dsf/mml), DESY Hamburg, *September 2025*. [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf)
 - Workshop [Interpretability in LLMs Using Geometrical and Statistical Methods](https://www.lesswrong.com/posts/bTzk32t9aWJwLuNhi/workshop-interpretability-in-llms-using-geometric-and), University of Amsterdam, *May 2025*, [Slides](http://vcastin.github.io/files/diapos/2025_05_amsterdam.pdf)
 - [MLSP Seminar](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/machine-learning-and-signal-processing?set_language=fr&cl=fr), ENS de Lyon, *January 2025*. [Slides](http://vcastin.github.io/files/diapos/2025_01_lyon.png)

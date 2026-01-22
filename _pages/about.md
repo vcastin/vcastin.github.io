@@ -17,6 +17,7 @@ I also co-organize the PhD seminar of our lab. Reach out if you would like to co
 
 News
 ======
+- **January 2026:** I was in Alicante to present my work at the RSME Symposium [PDEs, Inverse Problems and Machine Learning](https://2026.bienalrsme.com/sites/default/files/Partial_Differential_Equations_Inverse_Problems_and_Machine_Learning.pdf). [Slides](http://vcastin.github.io/files/diapos/2026_01_alicante.pdf)
 - **September 2025:** I was in Hamburg to present my recent works at the workshop [Mathematics of Transformers](https://helmholtz-imaging.de/news/mathematics-of-transformers/). [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf)
 - **June 2025:** Our paper [Opening the Black Box: Reverse-Engineering of Sparse Neural Networks](https://univ-lyon3.hal.science/hal-05136482v1) has been accepted as an oral at GRETSI 2025! Joint work with [Rémi Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
 - **January 2025:** Our new preprint [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) is out! Joint work with [J. A. Carrillo](https://carrilloja.org/), G. Peyré, P. Ablin. With a PDE formalism, we investigate the dynamics of tokens as they go through an infinitely deep Transformer.
