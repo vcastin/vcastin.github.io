@@ -21,6 +21,7 @@ Invited talks
 
 Conferences and summer schools
 ======
+- [Oral](http://vcastin.github.io/files/diapos/26_03_19_nice.pdf) at [SMAI MODE 2026](https://mode2026.sciencesconf.org/resource/page/id/5)
 - [Oral](http://vcastin.github.io/files/diapos/2025_08_GRETSI.pdf) at GRETSI 2025
 - [Poster](http://vcastin.github.io/files/posters/2024_CIRM.pdf) at the CIRM research school [Frontiers in Interacting Particle Systems](https://conferences.cirm-math.fr/3050.html)
 - [Poster](http://vcastin.github.io/files/posters/2024_ICML.pdf) at ICML 2024
