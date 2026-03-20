@@ -13,11 +13,11 @@ I investigate theoretical and practical properties of Transformers.
 
 I also co-organize the PhD seminar of our lab. Reach out if you would like to come present your work!
 
-**Contact:** valerie.castin (at) ens.psl.eu
+**Contact:** valerie.castin (at) dma.ens.fr
 
 News
 ======
-- **March 2026:** I was in Nice to present my work at [SMAI MODE 2026](https://mode2026.sciencesconf.org/resource/page/id/5). [Slides](http://vcastin.github.io/files/diapos/26_03_19_nice.pdf)
+- **March 2026:** I won the [Dodu Prize](smai.emath.fr/spip.php?article872) for my [presentation of BaLoRA](http://vcastin.github.io/files/diapos/26_03_19_nice.pdf) at [SMAI MODE 2026](https://mode2026.sciencesconf.org/resource/page/id/5) in Nice!
 - **January 2026:** I was in Alicante to present my work at the RSME Symposium [PDEs, Inverse Problems and Machine Learning](https://2026.bienalrsme.com/sites/default/files/Partial_Differential_Equations_Inverse_Problems_and_Machine_Learning.pdf). [Slides](http://vcastin.github.io/files/diapos/2026_01_alicante.pdf)
 - **September 2025:** I was in Hamburg to present my recent works at the workshop [Mathematics of Transformers](https://helmholtz-imaging.de/news/mathematics-of-transformers/). [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf)
 - **June 2025:** Our paper [Opening the Black Box: Reverse-Engineering of Sparse Neural Networks](https://univ-lyon3.hal.science/hal-05136482v1) has been accepted as an oral at GRETSI 2025! Joint work with [Rémi Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
