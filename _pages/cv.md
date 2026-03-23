@@ -29,7 +29,8 @@ Skills and miscellaneous
 -------
 * Languages: French (native speaker), Italian (bilingual), English (fluent), Spanish (intermediate), German (beginner)
 * Programming: Python (PyTorch, JAX)
-* I have been a singer in the [Choir of ENS de Lyon](https://www.ens-lyon.fr/asso/chorale/) and the [PSL Choir](https://www.ens.psl.eu/en/campus-life-paris/ens-and-psl/psl-choir-and-orchestra). I currently sing in the Choir of ENS PSL.
+* I have been a singer in the [Choir of ENS de Lyon](https://www.ens-lyon.fr/asso/chorale/) and the [PSL Choir](https://www.ens.psl.eu/en/campus-life-paris/ens-and-psl/psl-choir-and-orchestra).
+* I listen to music from all around the world. Do you know these great bands or artists? [Loredana Bertè](https://www.youtube.com/watch?v=rT1txCjuTxI&list=RDrT1txCjuTxI&start_radio=1), [Silvio Rodriguez](https://www.youtube.com/watch?v=zsg3Fdy7Kh0&list=RDPbi3PIPC4MQ&index=2), [Juliette Armanet](https://www.youtube.com/watch?v=jjCl6rmPrng&list=RDjjCl6rmPrng&start_radio=1), [Vasas flora och fauna](https://www.youtube.com/watch?v=cmYQ4JU7smI&list=RDcmYQ4JU7smI&start_radio=1), [ANAVITÓRIA](https://www.youtube.com/watch?v=RSxfInt-GB8&list=RDRSxfInt-GB8&start_radio=1), [Bebe](https://www.youtube.com/watch?v=xcV1PFqFa6Q&list=RDxcV1PFqFa6Q&start_radio=1), [Jarabe de Palo](https://www.youtube.com/watch?v=6EEz7cEaX-k&list=RD6EEz7cEaX-k&start_radio=1), [Clio](https://www.youtube.com/watch?v=FQGPuhxme3M&list=RDFQGPuhxme3M&start_radio=1), [Måneskin](https://www.youtube.com/watch?v=QTIkudYT3mg&list=RDQTIkudYT3mg&start_radio=1), [Altin Gün](https://www.youtube.com/watch?v=WXTIJzPg1H4&list=RDWXTIJzPg1H4&start_radio=1), [Inti Illimani](https://www.youtube.com/watch?v=bj3qdJWXFCQ&list=RDbj3qdJWXFCQ&start_radio=1), [Spöket i köket](https://www.youtube.com/watch?v=5EfQMl1DzCg&list=RD5EfQMl1DzCg&start_radio=1)
 
   
 
