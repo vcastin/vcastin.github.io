@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://www.gpeyre.com/) and [Pierre Ablin](https://pierreablin.com/) at [Ecole Normale Supérieure](https://www.ens.psl.eu/), Paris.
+I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://www.gpeyre.com/) and [Pierre Ablin](https://pierreablin.com/) at [Ecole Normale Supérieure](https://www.ens.psl.eu/), Paris. I am currently a PhD intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in Paris.
 
 I investigate theoretical and practical properties of Transformers.
-
-I also co-organize the PhD seminar of our lab. Reach out if you would like to come present your work!
 
 **Contact:** valerie.castin (at) dma.ens.fr
 
 News
 ======
+- **June 2026:** I was in Saint-Malo to present a poster about BaLoRA at [Curves and Surfaces 2026](https://cs2026.sciencesconf.org/program)
+- **June 2026:** Our paper [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) was accepted in the journal [Foundations of Computational Mathematics](https://focm-society.org)!
+- **May 2026:** I have started an internship in the Paris Apple MLR team!
 - **March 2026:** I was awarded the Best Student Talk Prize (prix Dodu) for my [presentation of BaLoRA](http://vcastin.github.io/files/diapos/26_03_19_nice.pdf) at [SMAI MODE 2026](https://mode2026.sciencesconf.org/resource/page/id/5) in Nice!
 - **January 2026:** I was in Alicante to present my work at the RSME Symposium [PDEs, Inverse Problems and Machine Learning](https://2026.bienalrsme.com/sites/default/files/Partial_Differential_Equations_Inverse_Problems_and_Machine_Learning.pdf). [Slides](http://vcastin.github.io/files/diapos/2026_01_alicante.pdf)
 - **September 2025:** I was in Hamburg to present my recent works at the workshop [Mathematics of Transformers](https://helmholtz-imaging.de/news/mathematics-of-transformers/). [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf)
