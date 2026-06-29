@@ -3,6 +3,8 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+lang: en
+lang_alt: /fr/teaching/
 ---
 
 {% include base_path %}

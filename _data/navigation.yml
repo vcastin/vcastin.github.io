@@ -12,10 +12,21 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
+
+# French version of the header links, used on pages with `lang: fr`.
+main_fr:
+  - title: "Publications"
+    url: /fr/publications/
+
+  - title: "Enseignement"
+    url: /fr/teaching/
+
+  - title: "CV"
+    url: /fr/cv/
 
   # - title: "Miscellaneous"
   #   url: /misc/

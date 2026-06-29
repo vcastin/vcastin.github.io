@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+lang: en
+lang_alt: /fr/publications/
 ---
 
 {% include base_path %}

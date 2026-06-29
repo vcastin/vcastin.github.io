@@ -2,6 +2,8 @@
 permalink: /
 title: "Welcome!"
 author_profile: true
+lang: en
+lang_alt: /fr/
 redirect_from: 
   - /about/
   - /about.html
