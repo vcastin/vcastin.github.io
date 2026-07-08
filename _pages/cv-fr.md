@@ -12,9 +12,9 @@ lang_alt: /cv/
 Recherche
 -------
 
-* Stagiaire de rechercher au sein d'Apple Machine Learning Research, dans l'éauipe de Paris, dirigée par [Marco Cuturi](https://marcocuturi.net), *mai à septembre 2026*
+* Stagiaire de recherche au sein d'Apple Machine Learning Research, dans l'équipe de Paris, dirigée par [Marco Cuturi](https://marcocuturi.net), *mai à septembre 2026*
 
-* Étudiante de master puis doctorante en apprentissage automatique à l'[École Normale Supérieure PSL](https://www.ens.psl.eu/), sous la direction de [Gabriel Peyré](https://www.gpeyre.com/) (CNRS, ENS PSL) et [Pierre Ablin](https://pierreablin.com/) (Apple), *avril à juillet 2023 et septembre 2024-aujourd'hui*
+* Étudiante de master puis doctorante en apprentissage automatique à l'[École Normale Supérieure PSL](https://www.ens.psl.eu/), sous la direction de [Gabriel Peyré](https://www.gpeyre.com/) (CNRS, ENS PSL) et [Pierre Ablin](https://pierreablin.com/) (Apple), *avril à juillet 2023* et *septembre 2024-aujourd'hui*
 
 * Étudiante en visite auprès de [José Antonio Carrillo](https://carrilloja.org/) (Université d'Oxford), *octobre à décembre 2023*
 

@@ -9,7 +9,7 @@ lang_alt: /teaching/
 
 {% include base_path %}
 
-- **Sept. 2025 à janv. 2026 :** J'enseigne le cours de L3 *Mathématiques pour l'apprentissage automatique* dans la CPES [Sciences des données, arts et cultures](https://psl.eu/formation/cpes-psl-louis-le-grand). [Feuilles d'exercices](https://github.com/vcastin/teaching_CPES_2526)
+- **Sept. 2025 à janv. 2026 :** Je suis chargée du cours de L3 *Mathématiques pour l'apprentissage automatique* dans la CPES [Sciences des données, arts et cultures](https://psl.eu/formation/cpes-psl-louis-le-grand). [Feuilles d'exercices](https://github.com/vcastin/teaching_CPES_2526)
 - **Sept. 2024 à janv. 2025 :** Chargée de TD pour le cours *Mathématiques des Données* à l'ENS PSL. Enseignants: Gabriel Peyré et Pierre Ablin. [Feuilles d'exercices](https://github.com/vcastin/teaching)
 - Colles de mathématiques en classe préparatoire, au Lycée Louis-le-Grand (Paris, *2020-2022*) et au Lycée Blaise Pascal (Orsay, *2022-2023*)
 
