@@ -14,6 +14,8 @@ redirect_from:
 Research
 -------
 
+* PhD intern at Apple Machine Learning Research. Joined the Paris team, lead by [Marco Cuturi](https://marcocuturi.net), *May to September 2026*
+
 * Master student then PhD student in Machine Learning at [Ecole Normale Supérieure PSL](https://www.ens.psl.eu/), supervised by [Gabriel Peyré](https://www.gpeyre.com/) (CNRS, ENS PSL) and [Pierre Ablin](https://pierreablin.com/) (Apple), *April to July 2023 and September 2024-today*
 
 * Visiting student of [José Antonio Carrillo](https://carrilloja.org/) (University of Oxford), *October to December 2023*

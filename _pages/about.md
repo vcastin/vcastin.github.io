@@ -17,6 +17,7 @@ I investigate theoretical and practical properties of Transformers.
 
 News
 ======
+- **July 2026:** I have presented a [poster](http://vcastin.github.io/files/posters/2026_ICML.png) about BaLoRA at ICML 2026 in Seoul!
 - **June 2026:** I was in Saint-Malo to present a poster about BaLoRA at [Curves and Surfaces 2026](https://cs2026.sciencesconf.org/program)
 - **June 2026:** Our paper [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) was accepted in the journal [Foundations of Computational Mathematics](https://focm-society.org)!
 - **May 2026:** I have started an internship in the Paris Apple MLR team!
