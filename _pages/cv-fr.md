@@ -11,6 +11,7 @@ lang_alt: /cv/
 
 Recherche
 -------
+* Stagiaire de recherche au sein de [Karavela](https://karavela.ai/fr), *octobre 2026 à avril 2027*
 
 * Stagiaire de recherche au sein d'Apple Machine Learning Research, dans l'équipe de Paris, dirigée par [Marco Cuturi](https://marcocuturi.net), *mai à septembre 2026*
 

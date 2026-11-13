@@ -6,14 +6,17 @@ lang: fr
 lang_alt: /
 ---
 
-Je suis doctorante en apprentissage automatique, sous la direction de [Gabriel Peyré](https://www.gpeyre.com/) et [Pierre Ablin](https://pierreablin.com/) à l'[École Normale Supérieure](https://www.ens.psl.eu/), Paris. Je suis actuellement en stage de césure à [Apple Machine Learning Research](https://machinelearning.apple.com) à Paris.
+Je suis doctorante en apprentissage automatique, sous la direction de [Gabriel Peyré](https://www.gpeyre.com/) et [Pierre Ablin](https://pierreablin.com/) à l'[École Normale Supérieure](https://www.ens.psl.eu/), Paris. Je suis actuellement en stage de césure chez [Karavela](https://karavela.ai/fr) à Paris.
 
-J'étudie les propriétés théoriques et pratiques des Transformers.
+Dans le cadre de ma thèse, j'étudie les propriétés théoriques et pratiques des Transformers, en particulier des grands modèles de langage (LLM). Chez Karavela, j'utilise les LLM pour mieux comprendre les données d'IRM fonctionnelle du cerveau.
 
 **Contact :** valerie.castin (at) dma.ens.fr
 
 Actualités
 ======
+- **Novembre 2026 :** J'ai présenté KV-Lingo au Workshop [Numerical Stability in Deep Learning](https://www.ricam.oeaw.ac.at/specsem/specsem2026/workshop2/) au RICAM, à Linz !
+- **Octobre 2026 :** J'ai présenté KV-Lingo au séminaire de l'équipe INRIA [MIND](https://www.inria.fr/fr/mind). J'ai aussi commencé mon stage chez [Karavela](https://karavela.ai/fr) !
+- **Septembre 2026 :** Notre nouveau preprint [KV-Lingo: Learning KV-Cache Translators With Distillation](https://arxiv.org/abs/2609.32610) est disponible ! Nous entraînons des traducteurs de cache KV permettant une communication efficace entre modèles de langage. Travail réalisé lors de mon stage chez Apple avec Keitaro Sakamoto, Anastasiia Filippova, João Monteiro, Marco Cuturi et Pierre Ablin.
 - **Juillet 2026 :** J'ai présenté un [poster](http://vcastin.github.io/files/posters/2026_ICML.png) sur BaLoRA à ICML 2026 à Seoul !
 - **Juin 2026 :** J'étais à Saint-Malo pour présenter un poster sur BaLoRA à [Curves and Surfaces 2026](https://cs2026.sciencesconf.org/program)
 - **Juin 2026 :** Notre article [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) a été accepté dans la revue [Foundations of Computational Mathematics](https://focm-society.org) !
