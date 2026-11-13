@@ -9,6 +9,7 @@ lang_alt: /fr/publications/
 
 {% include base_path %}
 
+- [KV-Lingo: Learning KV-Cache Translators With Distillation](https://arxiv.org/abs/2609.32610), V. Castin, K. Sakamoto, A. Filippova, J. Monteiro, M. Cuturi, P. Ablin, *arxiv preprint, 2026*. [Slides](http://vcastin.github.io/files/diapos/2026_11_linz.pdf)
 - [Balanced Low-Rank Adaptation: Removing Parameter Invariance to Accelerate Convergence](https://arxiv.org/abs/2605.31484), V. Castin, K. Nadjahi, P. Ablin, G. Peyré, *ICML 2026*. [Slides](http://vcastin.github.io/files/diapos/26_03_19_nice.pdf), [Poster](http://vcastin.github.io/files/posters/2026_ICML.png)
 - [Opening the Black Box: Reverse-Engineering of Sparse Neural Networks](https://univ-lyon3.hal.science/hal-05136482v1), V. Castin, R. Gribonval, *GRETSI 2025*. [Slides](http://vcastin.github.io/files/diapos/2025_08_GRETSI.pdf), [Poster](http://vcastin.github.io/files/posters/2022_SNN.png)
 - [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322), V. Castin, P. Ablin, J. A. Carrillo, G. Peyré, *Foundations of Computational Mathematics, 2025*. [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf), [Poster](http://vcastin.github.io/files/posters/2024_CIRM.pdf)
@@ -16,6 +17,8 @@ lang_alt: /fr/publications/
 
 Invited talks
 ======
+- Workshop [Numerical Stability in Deep Learning](https://www.ricam.oeaw.ac.at/specsem/specsem2026/workshop2/), RICAM, Linz, *November 2026*
+- INRIA [MIND](https://www.inria.fr/en/mind) Seminar, Paris, *October 2026*
 - [SIERRA](https://sierra-mlopt.github.io/) Seminar, INRIA Paris, *July 2026*
 - Minisymposium [Partial Differential Equations, Inverse Problems and Machine Learning](https://2026.bienalrsme.com/sites/default/files/Partial_Differential_Equations_Inverse_Problems_and_Machine_Learning.pdf), Universidad de Alicante, *January 2026*, [Slides](http://vcastin.github.io/files/diapos/2026_01_alicante.pdf)
 - Workshop [Mathematics of Transformers](https://www.tuhh.de/dsf/mml), DESY Hamburg, *September 2025*. [Slides](http://vcastin.github.io/files/diapos/2025_09_hamburg.pdf)

@@ -14,6 +14,8 @@ redirect_from:
 Research
 -------
 
+* PhD research scientist intern at [Karavela](https://karavela.ai), *October 2026 to April 2027*
+
 * PhD intern at Apple Machine Learning Research. Joined the Paris team, lead by [Marco Cuturi](https://marcocuturi.net), *May to September 2026*
 
 * Master student then PhD student in Machine Learning at [Ecole Normale Supérieure PSL](https://www.ens.psl.eu/), supervised by [Gabriel Peyré](https://www.gpeyre.com/) (CNRS, ENS PSL) and [Pierre Ablin](https://pierreablin.com/) (Apple), *April to July 2023 and September 2024-today*

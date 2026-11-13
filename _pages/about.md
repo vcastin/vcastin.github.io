@@ -9,14 +9,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://www.gpeyre.com/) and [Pierre Ablin](https://pierreablin.com/) at [Ecole Normale Supérieure](https://www.ens.psl.eu/), Paris. I am currently a PhD intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in Paris.
+I am a PhD student in Machine Learning, supervised by [Gabriel Peyré](https://www.gpeyre.com/) and [Pierre Ablin](https://pierreablin.com/) at [Ecole Normale Supérieure](https://www.ens.psl.eu/), Paris. I am currently a research scientist intern at [Karavela](https://karavela.ai) in Paris.
 
-I investigate theoretical and practical properties of Transformers.
+In my PhD, I investigate theoretical and practical properties of Transformers, in particular large language models. At Karavela, I use LLMs to better understand functional brain MRI data.
 
 **Contact:** valerie.castin (at) dma.ens.fr
 
 News
 ======
+- **November 2026:** I presented KV-Lingo at the Workshop [Numerical Stability in Deep Learning](https://www.ricam.oeaw.ac.at/specsem/specsem2026/workshop2/) at RICAM, Linz!
+- **October 2026:** I presented KV-Lingo at the seminar of the INRIA team [MIND](https://www.inria.fr/en/mind). I also started my internship at [Karavela](https://karavela.ai)!
+- **September 2026:** Our new preprint [KV-Lingo: Learning KV-Cache Translators With Distillation](https://arxiv.org/abs/2609.32610) is out! We train KV-cache translators that enable efficient communication between language models. Work done during my internship at Apple with Keitaro Sakamoto, Anastasiia Filippova, João Monteiro, Marco Cuturi and Pierre Ablin.
 - **July 2026:** I have presented a [poster](http://vcastin.github.io/files/posters/2026_ICML.png) about BaLoRA at ICML 2026 in Seoul!
 - **June 2026:** I was in Saint-Malo to present a poster about BaLoRA at [Curves and Surfaces 2026](https://cs2026.sciencesconf.org/program)
 - **June 2026:** Our paper [A Unified Perspective on the Dynamics of Deep Transformers](https://arxiv.org/abs/2501.18322) was accepted in the journal [Foundations of Computational Mathematics](https://focm-society.org)!
